@@ -1,0 +1,12 @@
+*.prefs
+*.class
+.classpath
+
+.p4config
+
+.project
+
+target/
+work/
+
+.p4ignore
